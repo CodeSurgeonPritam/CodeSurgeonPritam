@@ -113,7 +113,7 @@ const pritam: Developer = {
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 <div align="center">
 
