@@ -2,13 +2,12 @@
 
 # ✨ Pritam Kumar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20MERN%20Magic&descSize=16&descAlignY=60" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=180&section=header&text=Pritam%20Kumar&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20FullCircle%20(SF)%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Web+Applications;MERN+Stack+Specialist;Open+Source+Enthusiast;Seeking+Innovative+Internships;%E2%9C%A8+Turning+Ideas+into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+TypeScript+%2B+Node.js;Built+production+systems+for+1000%2B+users+%40+FullCircle+SF;LLM+API+Integration+%7C+AWS+%7C+Shopify+APIs;Open+to+Full-Time+SDE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,77 +24,96 @@
 <img align="right" alt="Developer GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  currentFocus: string[];
-  lifePhilosophy: string;
-}
-
-const pritam: Developer = {
-  name: "Pritam Kumar",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentFocus: [
-    "MERN Stack Development",
-    "Open Source Contributions", 
-    "Building Real-World Projects",
-    "Seeking Growth Opportunities"
-  ],
-  lifePhilosophy: "Code with purpose, learn with passion! ✨"
+const pritam = {
+  name:       "Pritam Kumar",
+  role:       "Full-Stack Developer",
+  experience: "9 months @ FullCircle, San Francisco (Remote)",
+  education:  "B.Tech CSE (AI & ML) — LNCT Bhopal | CGPA: 7.77",
+  stack:      ["React", "TypeScript", "Node.js", "AWS", "MongoDB", "Tailwind"],
+  built:      "Production dashboards & portals serving 1000+ real users",
+  seeking:    "Full-Time SDE roles — Remote / Hybrid / Bangalore",
+  superpower: "Shipping end-to-end features in agile sprints, solo or in a team",
 };
 ```
 
 <br clear="right"/>
 
-🎯 **Current Mission**: Seeking internship opportunities to apply my MERN stack expertise in real-world projects and collaborate with amazing development teams.
-
-🚀 **What Drives Me**: I'm passionate about creating seamless user experiences and solving complex problems through clean, efficient code.
-
-🏸 **Life Balance**: When not coding, I enjoy strategic badminton matches that keep my mind sharp and reflexes quick!
-
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Mastery
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  
+ 
+## 🏢 Experience
+ 
+### Full-Stack Developer Intern — FullCircle, San Francisco 🇺🇸 *(Remote)*
+**Jun 2025 – Mar 2026 · 9 months**
+ 
+- 🔧 Built reusable **React + TypeScript** component library (dashboards, modals, panels) — adopted across **2 production products**
+- 🔐 Architected **Google OAuth 2.0 + RBAC** authentication for multi-user internal workflows
+- 🛒 Built **Shopify-integrated** support tools for user, order & ticket management — impacting **1000+ active users**
+- 📡 Integrated **REST APIs** for real-time customer, order, and subscription data in production dashboards
+- ✅ Delivered full-stack features end-to-end: clean code, **Git workflows**, agile sprints
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### Backend Excellence
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  
+ 
+### Backend & Auth
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-</div>
-
-### Developer Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+ 
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-</div>
-
+ 
+### AI & Dev Tools
+![LLM](https://img.shields.io/badge/LLM_API_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
 ---
+ 
+## 🚀 Featured Projects
+ 
+### 🧠 [LakshyaPath AI](https://lakshyapath-ai.vercel.app/) — Adaptive JEE/NEET Prep Platform
+`MERN` `JWT` `REST APIs` `Vercel` **[Live ↗](https://lakshyapath-ai.vercel.app/)**
+ 
+> AI-powered exam prep with adaptive learning, rank prediction, and anti-burnout detection
+ 
+- 🎯 **Adaptive DNA Engine** — dynamically injects micro-practice based on weak concept areas
+- 📊 **Rank Synthesizer** — predicts JEE/NEET rank with **92% accuracy** on 50M+ data points
+- 📸 **Multi-modal doubt resolution** — photo → solution in under 3 seconds
+- ⚔️ **ELO-based 1v1 Study Battles** + anti-burnout detection with real-time difficulty scaling
+ 
+---
+ 
+### 📦 FullCircle Customer Experience Dashboard *(Private — Production)*
+`React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `DigitalOcean`
+ 
+- Agent-facing dashboard managing users, orders, and Shopify tickets — **1000+ users**
+- Developed **15+ reusable UI components**, optimized state for multi-panel enterprise workflows
+ 
+---
+ 
+### 🙋 Customer Self-Service Portal *(Private — Production)*
+`React` `TypeScript` `Redux Toolkit` `Google OAuth 2.0` `Shopify APIs`
+ 
+- Full-featured portal for **1000+ customers** to manage subscriptions, payments, delivery
+- **10+ subscription action workflows** — reactivate, skip, reschedule, swap, consolidate, cancel
+- Real-time order tracking dashboard with live Shopify data sync
+ 
+---
+
 
 ## 📊 Development Analytics
 
@@ -193,46 +211,23 @@ const pritam: Developer = {
 ## 🤝 Let's Connect & Create
 
 <div align="center">
-
-I'm always excited to discuss new opportunities, collaborate on interesting projects, or simply chat about the latest in web development!
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeSurgeonPritam)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritamkunar13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=safari&logoColor=white)](#)
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritammkumar)
-
-<br>
-
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pritamm.onrender.com-4A90E2?style=for-the-badge&logo=safari&logoColor=white)](https://pritamm.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pritammkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritammkumar)
+[![Email](https://img.shields.io/badge/Email-pritamskumar4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritamskumar4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeSurgeonPritam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeSurgeonPritam)
+ 
+<br/>
+ 
+**💼 Open to Full-Time SDE roles — Remote / Hybrid / Bangalore / Pan-India**
+ 
+<img src="https://komarev.com/ghpvc/?username=CodeSurgeonPritam&style=for-the-badge&color=4A90E2&label=Profile+Views"/>
+ 
 </div>
-
----
-
-## 🎪 Current Status
-
-<div align="center">
-
-```javascript
-const currentStatus = {
-  🔥 availability: "Open for internship opportunities",
-  🎯 focus: "Building portfolio projects & contributing to open source",
-  📍 location: "Available for remote/hybrid opportunities",
-  💡 learning: "TypeScript, Next.js, and advanced React patterns",
-  🎮 mood: "Excited about the future of web development!"
-};
-
-console.log("Ready to make an impact! ✨");
-```
-
-<img src="https://komarev.com/ghpvc/?username=CodeSurgeonPritam&style=for-the-badge&color=4A90E2&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,2,0&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Last updated: July 2, 2025 | Crafted with 💙 and lots of ☕*
+*Last updated: March 18, 2026 | Crafted with 💙 and lots of ☕*
 
 </div>
