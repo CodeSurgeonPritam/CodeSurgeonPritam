@@ -131,19 +131,7 @@ const pritam = {
 
 ---
 
-## 🎯 2026 Roadmap
 
-<div align="center">
-
-| 🎨 Frontend Goals | 🔧 Backend Goals | 🚀 Career Goals | 🌟 Personal Goals |
-|:---:|:---:|:---:|:---:|
-| Master Next.js | Learn GraphQL | Land Dream Internship | 5+ Open Source Projects |
-| Advanced React Patterns | Microservices Architecture | Build 3 Full-Stack Apps | Contribute to Major Repos |
-| Three.js Animations | Docker & DevOps | Tech Community Engagement | Badminton Tournament |
-
-</div>
-
----
 
 ## ✨ What Makes Me Unique
 
