@@ -26,7 +26,7 @@
 const pritam = {
   name:       "Pritam Kumar",
   role:       "Full-Stack Developer",
-  experience: "9 months @ FullCircle, San Francisco (Remote)",
+  experience: "@ FullCircle, San Francisco (Remote)",
   education:  "B.Tech CSE (AI & ML) — LNCT Bhopal | CGPA: 7.77",
   stack:      ["React", "TypeScript", "Node.js", "AWS", "MongoDB", "Tailwind"],
   built:      "Production dashboards & portals serving 1000+ real users",
@@ -47,7 +47,7 @@ const pritam = {
 ## 🏢 Experience
  
 ### Full-Stack Developer Intern — FullCircle, San Francisco 🇺🇸 *(Remote)*
-**Jun 2025 – Mar 2026 · 9 months**
+**Nov 2024 – Currently Working **
  
 - 🔧 Built reusable **React + TypeScript** component library (dashboards, modals, panels) — adopted across **2 production products**
 - 🔐 Architected **Google OAuth 2.0 + RBAC** authentication for multi-user internal workflows
