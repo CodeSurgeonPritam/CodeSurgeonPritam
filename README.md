@@ -203,7 +203,7 @@ const pritam = {
 
 <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-pritamm.onrender.com-4A90E2?style=for-the-badge&logo=safari&logoColor=white)](https://pritamm.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/itspritam.me-4A90E2?style=for-the-badge&logo=safari&logoColor=white)](https://itspritam.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pritammkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritammkumar)
 [![Email](https://img.shields.io/badge/Email-pritamskumar4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritamskumar4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CodeSurgeonPritam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeSurgeonPritam)
