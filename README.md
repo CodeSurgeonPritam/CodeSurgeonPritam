@@ -46,7 +46,7 @@ const pritam = {
  
 ## 🏢 Experience
  
-### Full-Stack Developer Intern — FullCircle, San Francisco 🇺🇸 *(Remote)*
+### Full-Stack Developer  — FullCircle, San Francisco 🇺🇸 *(Remote)*
 **Nov 2024 – Currently Working **
  
 - 🔧 Built reusable **React + TypeScript** component library (dashboards, modals, panels) — adopted across **2 production products**
